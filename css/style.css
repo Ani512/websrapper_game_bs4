@@ -65,12 +65,13 @@ body {
    color: #fff;
    padding: 0.75rem 1.5rem;
    margin-top: 1rem;
-   transition: opacity 1s ease-in-out;
+   transition: opacity 3s ease-in-out;
    text-decoration: none;
 }
 
 .btn:hover {
    opacity: 0.7;
+   background: var(--secondary-color);
 }
 
 .footer {
@@ -93,7 +94,7 @@ body {
 }
 
 .footer a:hover {
-   color: #0284d0;
+   color: var(--secondary-color);
 }
 
 .bg-dark {
