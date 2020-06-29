@@ -1,0 +1,19 @@
+{
+  "name": "author_game",
+  "version": "1.0.0",
+  "description": "Web Game to guess an author of a famous quote",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ani512/websrapper_game_bs4.git"
+  },
+  "author": "Anirudh Mukund Umarji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ani512/websrapper_game_bs4/issues"
+  },
+  "homepage": "https://github.com/Ani512/websrapper_game_bs4#readme"
+}
